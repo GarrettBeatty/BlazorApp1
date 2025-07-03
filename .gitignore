@@ -1,0 +1,28 @@
+# Build artifacts
+bin/
+obj/
+
+# .NET
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# NuGet
+*.nupkg
+packages/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
