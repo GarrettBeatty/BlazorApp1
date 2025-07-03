@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GrIy8XotTlg=",
+  "dgSpecHash": "fPaFz14ZhmJJ1Piqm+UGacvl/A/hv8I6Np48mnPDkVIBAsu9zp208z5bC2v7QWHMZt+Rzyxkln9g6dO2st/YIw==",
   "success": true,
-  "projectFilePath": "/Users/garrett/Github/BlazorApp1/BlazorApp1/BlazorApp1.csproj",
-  "expectedPackageFiles": [
-    "/Users/garrett/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.0-preview.5.25277.114/microsoft.aspnetcore.app.internal.assets.10.0.0-preview.5.25277.114.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/runner/work/BlazorApp1/BlazorApp1/BlazorApp1/BlazorApp1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
